@@ -875,8 +875,6 @@ ax.set_title('Experimental data and quantiles of the predictive posterior: '+str
 
 The result is shown below
 
-![img](elbw_x_posterior.png)
-
 ![img](post_pred.png)
 
 *Scatter plot is the original data used to fit parameter distirbutions. Red lines are 5th, 50th and 95th percentiles. One can clearly see that data lies mostly in the 90% interval (between 5th and 95th percentile) and that 50th percentile, i.e. median, is indeed in the middle of the data.*
